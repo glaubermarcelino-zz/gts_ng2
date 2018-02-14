@@ -1,1 +1,3 @@
-alert("Biblioteca foi instalado com sucesso");
+function mensagem(msg){
+alert(msg);
+}
